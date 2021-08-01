@@ -1,1 +1,1 @@
-# Graph-Neural-Network
+# Graph-Convolutional-Networks
